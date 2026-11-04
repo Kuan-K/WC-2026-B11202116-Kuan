@@ -120,7 +120,7 @@ Submit:
 
 screenshot
 --
-![alt text](/figure/lab1_checkpoint1.png)
+![alt text](figure/Lab1/lab1_checkpoint1.png)
 
 ## 5. Identify the Basic 5G SA Architecture
 
@@ -148,11 +148,11 @@ Complete the table:
 
 | Component | IP address | Evidence from the capture |
 |---|---|---|
-| UE PDU address | 10.0.0.2 | ![alt text](/figure/lab1_gtp.png) |
-| gNB | 192.168.70.129 | ![alt text](/figure/lab1_ngap.png) |
-| AMF | 192.168.70.132 | ![alt text](/figure/lab1_ngap.png) |
-| UPF | 192.168.70.134 | ![alt text](/figure/lab1_UPF.png) |
-| Data Network | 192.168.70.135 | ![alt text](/figure/lab1_gtp.png) |
+| UE PDU address | 10.0.0.2 | ![alt text](figure/Lab1/lab1_gtp.png) |
+| gNB | 192.168.70.129 | ![alt text](figure/Lab1/lab1_ngap.png) |
+| AMF | 192.168.70.132 | ![alt text](figure/Lab1/lab1_ngap.png) |
+| UPF | 192.168.70.134 | ![alt text](figure/Lab1/lab1_UPF.png) |
+| Data Network | 192.168.70.135 | ![alt text](figure/Lab1/lab1_gtp.png) |
 
 Complete the interface table:
 
@@ -215,7 +215,7 @@ Complete the table:
 | RRCSetup | gNB to UE | DL-CCCH / SRB0 | gNB accepts the request and configures the initial RRC connection | 105 |
 | RRCSetupComplete | UE to gNB | UL-CCCH / SRB1 | UE confirms that RRC setup is complete | 108 |
 
-![alt text](/figure/image.png)
+![alt text](figure/Lab1/image.png)
 
 Answer the following questions:
 
@@ -307,9 +307,9 @@ Answer:
 
 ---
 
-![alt text](/figure/image-1.png)
+![alt text](figure/Lab1/image-1.png)
 
-![alt text](/figure/image-2.png)
+![alt text](figure/Lab1/image-2.png)
 
 
 ## 8. Verify the UE IP Address and User-Plane Traffic
@@ -387,7 +387,7 @@ However, the OAI RAN packets use loopback addresses. Manually separate the UE an
 - Clearly distinguish control-plane and user-plane traffic. — 2 points
 
 ---
-![alt text](/figure/image-3.png)
+![alt text](figure/Lab1/image-3.png)
 
 ## 10. Submission and Grading
 
@@ -415,5 +415,3 @@ Each screenshot must show:
 | 5 | UE IP and GTP-U user plane | 15 |
 | 6 | Final sequence diagram | 5 |
 |  | **Total** | **100** |
-
-
