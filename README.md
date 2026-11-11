@@ -14,7 +14,7 @@
     - **Deadline : 12:00, Sep. 28**
     - Goal:
 In this lab, you will use Wireshark to analyze how a UE establishes an RRC connection with an OAI gNB and then registers with the 5G Core.
-    - delivery: **put your file link here**.
+    - delivery: [Lab1](/Lab1.md)
     -  [ ] Peer review : [Vote the Top3](https://docs.google.com/forms/d/e/1FAIpQLSeY8uVnBUwJ6l6CwQ6arx3JHthTJupHBeA2WwyD-EUIYqHHrg/viewform?usp=publish-editor) (DL: 23:59, Sep. 30)
       
 
@@ -23,5 +23,5 @@ In this lab, you will use Wireshark to analyze how a UE establishes an RRC conne
     -  **Deadline : 12:00, Oct. 5**
     - Goal:
 In this lab,you will compare three 5-second UDP iperf3 tests. You will learn how TDD slot allocation can affect downlink and uplink performance.
-    - - delivery: **put your file link here**.
+    - - delivery: [lab2](/Lab2.md)
     -  [ ] Peer review : [Vote the Top3](https://docs.google.com/forms/d/e/1FAIpQLScz-Kt_9ArkXOl8sG99549xqGK7W7vAqoY4lbbc3ph03zvFaw/viewform?usp=publish-editor) (DL: 23:59, Oct.7)
